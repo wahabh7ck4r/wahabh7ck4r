@@ -1,6 +1,5 @@
 Welcome to My Profile! 👋
 
-About Me
 Hi, I'm Abdul Wahab! I'm passionate about  data science, machine learning, cybersecurity. I enjoy exploring new technologies and solving real-world problems using innovative solutions.
 
 👀 I'm currently exploring
