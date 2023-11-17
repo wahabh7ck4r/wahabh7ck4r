@@ -35,7 +35,9 @@ Contact Me
 Feel free to reach out to me via:
 
 Email: abdulwahabchudhary@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/abdul-wahab-108873266/
+
 Instagram: https://www.instagram.com/ch___wahab/
 
 I'm open to connecting with like-minded individuals, discussing exciting projects, and exploring opportunities for collaboration or networking. Let's connect and create something awesome together! 😊
