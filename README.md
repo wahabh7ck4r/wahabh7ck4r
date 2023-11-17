@@ -5,8 +5,11 @@ Hi, I'm Abdul Wahab! I'm passionate about  data science, machine learning, cyber
 👀 I have a keen interest in the vast landscape of data science and am actively exploring multiple facets of this field, including:
 
 Data analysis techniques and visualization tools for uncovering insights Machine learning models 
+
 exploring their applications and limitations Statistical methodologies for hypothesis testing and inference
+
 Natural language processing (NLP) techniques for text analysis and sentiment analysis 
+
 Delving into the architectures and applications of deep learning and neural networks
 
 
