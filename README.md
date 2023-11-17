@@ -4,20 +4,17 @@ Hi, I'm Abdul Wahab! I'm passionate about  data science, machine learning, cyber
 
 👀 I have a keen interest in the vast landscape of data science and am actively exploring multiple facets of this field, including:
 
-Data analysis techniques and visualization tools for uncovering insights Machine learning models 
-
+Data analysis techniques and visualization tools for uncovering insights Machine learning models,
 exploring their applications and limitations Statistical methodologies for hypothesis testing and inference
-
 Natural language processing (NLP) techniques for text analysis and sentiment analysis 
-
 Delving into the architectures and applications of deep learning and neural networks
 
 
 🌱 I'm currently dedicated to enhancing my skills in various aspects of data science, and I'm also working towards achieving my CISSP certification. My learning focus includes:
 
-Mastering Python for data analysis and machine learning
-Exploring advanced concepts in neural networks and deep learning
-Gaining expertise in data security and information systems through the CISSP Book
+Mastering Python for data analysis and machine learning,
+Exploring advanced concepts in neural networks and deep learning,
+Gaining expertise in data security and information systems through the CISSP Book and
 Understanding cybersecurity principles, access controls, cryptography, and risk management
 
 
