@@ -24,8 +24,7 @@ Understanding cybersecurity principles, access controls, cryptography, and risk 
 
 Building machine learning models for predictive analytics  
 Exploring data visualization techniques to communicate complex insights  
-Contributing to open-source projects focusing on data analysis and AI applications  
-Exploring natural language processing applications in various domains.  
+Contributing to open-source projects focusing on data analysis and AI applications Exploring natural language processing applications in various domains.  
 
 
 🤝 Open to discussing ideas, projects, or potential collaborations related to:  
