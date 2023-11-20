@@ -5,7 +5,7 @@
 
 - :school: I'm passionate about data science, machine learning, cybersecurity.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 
   
