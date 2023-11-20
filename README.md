@@ -1,43 +1,91 @@
-Welcome to My Profile! 👋
-# About Me  
-Hi, I'm Abdul Wahab! I'm passionate about  data science, machine learning, cybersecurity. I enjoy exploring new technologies and solving real-world problems using innovative solutions.  
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-# 👀 I'm currently exploring  
-I have a keen interest in the vast landscape of data science and am actively exploring multiple facets of this field, including:  
+<br><br>
 
-- Data analysis techniques and visualization tools for uncovering insights Machine learning models,  
-- exploring their applications and limitations Statistical methodologies for hypothesis testing and inference  
-- Natural language processing (NLP) techniques for text analysis and sentiment analysis   
-- Delving into the architectures and applications of deep learning and neural networks  
+- :school: I'm passionate about data science, machine learning, cybersecurity.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
 
-# 🌱I'm currently learning  
-
-I'm currently dedicated to enhancing my skills in various aspects of data science, and I'm also working towards achieving my CISSP certification. My learning focus includes:  
-
-- Mastering Python for data analysis and machine learning,  
-- Exploring advanced concepts in neural networks and deep learning,  
-- Gaining expertise in data security and information systems through the CISSP Book and Understanding cybersecurity principles, access controls, cryptography, and risk management  
-
-# 💞️ Collaboration  
- I'm looking to collaborate on projects related to data science that involve:  
-
-- Building machine learning models for predictive analytics  
-- Exploring data visualization techniques to communicate complex insights  
-- Contributing to open-source projects focusing on data analysis and AI applications Exploring natural language processing applications in various domains.  
+  
+<br>
 
 
-🤝 Open to discussing ideas, projects, or potential collaborations related to:  
+## 🤝🏻 Connect with me<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
 
-- Data-centric Python projects, such as creating AI assistants or chatbots  
-- Implementing secure and efficient data handling solutions using Python  
-- Developing tools for data preprocessing, cleaning, and transformation  
+<p align="center">
+  <a href="abdulwahabchudhary@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/+92317072081">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-wahab-108873266/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-# Contact Me  
-Feel free to reach out to me via:  
+## 🛠 Tech Stack
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+   <a href="" target="_blank">
+    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </a>
 
-- Email: abdulwahabchudhary@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/abdul-wahab-108873266/  
-- Instagram: https://www.instagram.com/ch___wahab/    
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
 
-I'm open to connecting with like-minded individuals, discussing exciting projects, and exploring opportunities for collaboration or networking. Let's connect and create something awesome together! 😊
 
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+
+
+   <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">	
+  </a>
+ <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+   <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+  </a>
+</p>
+
+---
+## ⚙️ GitHub Profile Stats 💻
+<p align="center">
+<a href="https://github.com/zaheerh4ck3r">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChudharyWahab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChudharyWahab&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+</br></br>
