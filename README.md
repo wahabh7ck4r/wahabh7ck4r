@@ -7,7 +7,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit My website: [here](https://wahabh7ck4r.github.io/protfolio/)
+- :boom: You can visit My website: [here](https://wahabh7ck4r.github.io/portfolio/)
 - 📑 You can visit My Resume: [here](https://drive.google.com/file/d/1tjy7KHsvKJHoLpjij0ADfz_IjuTtLEUH/view)
 
   
