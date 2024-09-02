@@ -2,7 +2,7 @@
 - I'm a Data Scientist .
 - Currently working on `teaching the Python programming language`.  
 - I'm currently learning `Deep learning with Tensorflow` & `Solving leetcode challanges`.  
-- you can visit my website: [here](https://wahabh7ck4r.github.io/portfolio/) .
+- To learn more about me, you can visit my website: [here](https://wahabh7ck4r.github.io/portfolio/) .
 
 ## ⚙️ GitHub Profile Stats 💻
 <p align="center">
